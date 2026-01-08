@@ -10,9 +10,8 @@ The backend is powered by **Supabase** (PostgreSQL + Auth + Storage).
 
 ## 📸 Screenshots
 
-| Login / Registro | Feed de Noticias | Detalle del Blog | Crear Post |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="screenshots/signup.png" width="200"/> || <img src="screenshots/login.png" width="200"/> | <img src="screenshots/home.png" width="200"/> | <img src="screenshots/detail.png" width="200"/> | <img src="screenshots/create.png" width="200"/> |<img src="screenshots/delete.png" width="200"/> |
+
+| <img src="screenshots/signup.png" width="200"/> | <img src="screenshots/login.png" width="200"/> | <img src="screenshots/home.png" width="200"/> | <img src="screenshots/details.png" width="200"/> | <img src="screenshots/create.png" width="200"/> |<img src="screenshots/delete.png" width="200"/> |
 
 
 ## ✨ Key Features
