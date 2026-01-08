@@ -11,17 +11,17 @@ The backend is powered by **Supabase** (PostgreSQL + Auth + Storage).
 ## 📸 Screenshots
 
 <p align="center"> 
-<img src="screenshots/signup.png" alt="SignUp Screen" width="20%" style="margin-right: 40dp"> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-<img src="screenshots/login.png" alt="Login Screen" width="20%" style="margin-right: 40dp">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-<img src="screenshots/home.png" alt="Home Screen" width="20%" style="margin-right: 40dp"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-<img src="screenshots/details.png" alt="Details Screen" width="20%" style="margin-right: 40dp">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-<img src="screenshots/create.png" alt="Create Screen" width="20%" style="margin-right: 40dp"> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-<img src="screenshots/delete.png" alt="Delete Screen" width="20%" style="margin-right: 40dp">
+   <img src="screenshots/signup.png" alt="SignUp Screen" width="20%" style="margin-right: 40dp"> 
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+   <img src="screenshots/login.png" alt="Login Screen" width="20%" style="margin-right: 40dp">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+   <img src="screenshots/home.png" alt="Home Screen" width="20%" style="margin-right: 40dp"><br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+   <img src="screenshots/details.png" alt="Details Screen" width="20%">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+   <img src="screenshots/create.png" alt="Create Screen" width="20%"> 
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+   <img src="screenshots/delete.png" alt="Delete Screen" width="20%">
 <p>
 
 ## ✨ Key Features
